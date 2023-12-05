@@ -5,7 +5,7 @@ Digital Production Student at Gnomon School of VFX
 
 Usage:
 Removes unused assets in a given Unreal Engine 5 project.
-Reduces project size with two clicks.
+Reduces project size.
 
 '''
 import unreal, sys
