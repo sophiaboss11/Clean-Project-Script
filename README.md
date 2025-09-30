@@ -5,7 +5,7 @@ Usage: Removes unused assets in a given Unreal Engine 5 project. Reduces project
 https://drive.google.com/uc?id=1wqPFB8PdbpYWIE8JFnTodsoqre2k1LVv
 )
 
-Steps (for artists):
+Steps :
 1) Enable Python in plugin manager
 2) Import script into python folder
 3) Right click the script and select run
